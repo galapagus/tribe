@@ -1,6 +1,6 @@
 # galapagus-tribe
 
-A repo for public documents related to the [Galapag.us](http://galapag.us/) tribe.
+A repo for public documents related to the [Galapag.us](http://galapag.us/) tribe. Gist is available at [https://gist.github.com/4371822](https://gist.github.com/4371822).
 
 ## Improve Our Tribe!
 
